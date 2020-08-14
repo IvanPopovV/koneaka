@@ -2,8 +2,8 @@
 		display: flex;
 		margin: 50px auto;
 		border: 1px solid #000;
-		width: 480px;
-		height: 480px;
+		width: 64px;
+		height: 64px;
 		flex-wrap: wrap;
 	}
 

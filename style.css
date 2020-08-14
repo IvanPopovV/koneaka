@@ -1,9 +1,9 @@
 .field {
 		display: flex;
-		margin: 100px;
+		margin: 50px auto;
 		border: 1px solid #000;
-		width: 64px;
-		height: 64px;
+		width: 680px;
+		height: 680px;
 		flex-wrap: wrap;
 	}
 
